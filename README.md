@@ -41,6 +41,7 @@ Aviation weather viewer: decode the METAR for any airport by ICAO code, with fli
 ### 🌱 Currently learning
 
 Shipping with CI (**GitHub Actions**), testing with **Vitest + React Testing Library**, and server state with **TanStack Query** — all now running in production on METAR Weather Viewer. Next up: **Next.js**, **serverless functions** (to proxy API keys), and **databases**.
+
 ---
 
 ### 📫 Let's connect
