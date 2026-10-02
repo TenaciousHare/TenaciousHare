@@ -16,6 +16,10 @@ Generator of printable route-knowledge tests for airport staff, with a secured t
 Seat-map generator for practicing manual check-in and aircraft section counting under time pressure.
 `TypeScript` · `Vite` · `Playwright (e2e tests)` · bilingual docs (PL/EN)
 
+**[✈️ METAR Weather Viewer](https://github.com/TenaciousHare/metar)** — [live demo](https://avia-weather.netlify.app/)
+Aviation weather viewer: decode the METAR for any airport by ICAO code, with flight category, ISA deviation, relative humidity and a color-coded observation-freshness indicator.
+`React` · `TypeScript` · `Vite` · `TanStack Query` · `Vitest` · `GitHub Actions CI`
+
 ---
 
 ### 🛠️ Tech stack
@@ -28,13 +32,15 @@ Seat-map generator for practicing manual check-in and aircraft section counting 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ### 🌱 Currently learning
 
-Deepening **TypeScript**, testing with **Vitest + React Testing Library**, data fetching with **TanStack Query**, and CI with **GitHub Actions**.
-
+Shipping with CI (**GitHub Actions**), testing with **Vitest + React Testing Library**, and server state with **TanStack Query** — all now running in production on METAR Weather Viewer. Next up: **Next.js**, **serverless functions** (to proxy API keys), and **databases**.
 ---
 
 ### 📫 Let's connect
