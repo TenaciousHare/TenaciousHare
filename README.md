@@ -18,7 +18,7 @@ Seat-map generator for practicing manual check-in and aircraft section counting 
 
 **[✈️ METAR Weather Viewer](https://github.com/TenaciousHare/metar)** — [live demo](https://avia-weather.netlify.app/)
 Aviation weather viewer: decode the METAR for any airport by ICAO code, with flight category, ISA deviation, relative humidity and a color-coded observation-freshness indicator.
-`React` · `TypeScript` · `Vite` · `TanStack Query` · `Vitest` · `GitHub Actions CI`
+`React` · `TypeScript` · `Vite` · `TanStack Query` · `Netlify Functions` · `Vitest` · `GitHub Actions CI`
 
 ---
 
